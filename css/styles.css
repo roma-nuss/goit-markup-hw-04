@@ -548,7 +548,7 @@ transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 
 .footer-social-link:hover,
 .footer-social-link:focus {
-background-color: #292f6e;
+background-color: #31d0aa;
 }
 
 .footer-icon {
@@ -560,8 +560,6 @@ background-color: #292f6e;
     display: flex;
     gap: 24px;
     }
-    
-    .form-email {}
     
     .footer-middle-text{
     color: #ffffff;
